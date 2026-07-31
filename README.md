@@ -1,3 +1,4 @@
+by Thiago
 <div align="center">
   <img src="docs/logo.png" alt="OmniVoice Logo" width="120" />
   <h1>OmniVoice Studio</h1>
